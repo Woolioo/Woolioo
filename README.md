@@ -37,3 +37,6 @@ I'm junior front-end developer trying to expand the horizons and learn some new 
 </div> 
 
 ---
+
+### :fire: My stats: 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Woolioo&theme=dark&background=000000)](https://git.io/streak-stats)
