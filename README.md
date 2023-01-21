@@ -5,7 +5,7 @@
   </p>
 </div> -->
  
-<div id="welcome-text" align="center" justify="cemter">
+<div id="welcome-text" align="center" justify="center">
   <p> <b> Welcome to my profile! </b> </p>
  </div>
  
@@ -20,9 +20,10 @@
 </div>
 
 ---
-<div id="info"> 
 
-</div>
+### :man_technologist: About me: 
+I'm junior front-end developer trying to expand the horizons and learn some new stuff. 
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
