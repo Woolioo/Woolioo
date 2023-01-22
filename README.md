@@ -35,7 +35,8 @@ I'm junior front-end developer trying to expand the horizons and learn some new 
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="Cplusplus" **alt="Cplusplus" width="40" height="40"/>
 </div> 
-<!-- komentarz -->
+<!-- komentarz --> 
+<!-- kolejny kom,entarz XD  -->
 ---
 
 ### :fire: My stats: 
