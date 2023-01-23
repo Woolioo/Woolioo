@@ -25,7 +25,7 @@
 I'm junior front-end developer trying to expand the horizons and learn some new stuff. 
 
 ---
-
+<!-- komentarz -->
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
