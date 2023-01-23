@@ -24,7 +24,6 @@
 ### :man_technologist: About me: 
 I'm junior front-end developer trying to expand the horizons and learn some new stuff. 
 
----
 <!-- komentarz -->
 ### :hammer_and_wrench: Languages and Tools :
 <div>
