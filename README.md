@@ -16,7 +16,7 @@
 </div>
 
 <div id="views" align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Woolioo&style=flat-square&color=blue" alt=""/>
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=Woolioo)](https://git.io/streak-stats)
 </div>
 
 ---
@@ -36,7 +36,7 @@ I'm junior front-end developer trying to expand the horizons and learn some new 
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="Cplusplus" **alt="Cplusplus" width="40" height="40"/>
 </div> 
 <!-- komentarz --> 
-<!-- kolejny kom,entarz XD  -->
+<!-- kolejny komentarz XD  -->
 
 ---
 
