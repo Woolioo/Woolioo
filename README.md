@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=woolioo&show_icons=true&locale=en" alt="woolioo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=woolioo&" alt="woolioo" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Woolioo)](https://git.io/streak-stats)
