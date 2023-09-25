@@ -1,7 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Woolioo%20⚡&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 
 <h1 align="center">Hi 👋, I'm Woolioo</h1>
-<h3 align="center">A front-end developer from Poland 🇵🇱</h3>
+<h3 align="center">A front-end developer from Poland </h3>
 <img align="right" alt = "programming" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=woolioo&label=Profile%20views&color=0e75b6&style=flat" alt="woolioo" /> </p>
