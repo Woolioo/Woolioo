@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/woolio_official" target="blank"><img src="https://img.shields.io/twitter/follow/woolio_official?logo=twitter&style=for-the-badge" alt="woolio_official" /></a> </p>
 
-- 🌱 I’m currently learning **React, TypeScript**
+- 🌱 I’m currently learning **React, Rust, Laravel**
 
 - 🤝 I’m looking for help with **React**
 
